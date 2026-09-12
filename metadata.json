@@ -1,0 +1,6 @@
+{
+  "name": "BIOPILOT AI",
+  "description": "Agentic AI Digital Bioprocess Engineer — Digital twin simulation, trajectory intelligence, what-if intervention optimizer, and human-in-the-loop decision support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
